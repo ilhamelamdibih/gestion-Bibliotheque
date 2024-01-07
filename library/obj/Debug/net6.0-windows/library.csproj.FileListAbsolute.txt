@@ -1,0 +1,246 @@
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\library.exe
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\library.deps.json
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\library.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\library.pdb
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Bunifu.Utils.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\NugetOrgDev.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Exodus.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Form1.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.dll
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\refint\library.dll
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.pdb
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\ref\library.dll
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Dashboard.resources
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Emprunts.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.CD.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Client.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Livre.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Ouvrage.resources
+C:\Users\lenovo\Desktop\library\library\obj\Debug\net6.0-windows\library.Periodique.resources
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lenovo\Desktop\library\library\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.CD.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Client.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Dashboard.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Emprunts.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Form1.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Livre.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Ouvrage.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Periodique.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.dll
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\refint\library.dll
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.pdb
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\library.exe
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\library.deps.json
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\library.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\library.pdb
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\RestSharp.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Management.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Bunifu.Utils.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\NugetOrgDev.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Guna.UI2.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Exodus.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ZstdNet.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Speech.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+F:\Bureau C\library\library\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+F:\Bureau C\library\library\obj\Debug\net6.0-windows\ref\library.dll
